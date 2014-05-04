@@ -1,0 +1,4 @@
+Galleries
+=========
+
+Galleries plugin
